@@ -1,0 +1,18 @@
+# Local data store blocking criteria
+data/raw/*
+data/processed/*
+!data/README.md
+
+# Compiled python operational structures
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Model serialization artifacts
+models/*
+!models/README.md
+
+# VS Code runtime preferences 
+.vscode/
+.DS_Store

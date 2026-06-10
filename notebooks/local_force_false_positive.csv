@@ -1,0 +1,7 @@
+Feature,Feature_Value,SHAP_Value
+time_since_signup,21.933333333333334,-3.0723865
+day_of_week,4.0,2.5641158
+purchase_value,121.14143145605196,1.2448553
+age,48.0,-0.47006223
+hour_of_day,8.0,0.36842147
+tx_count_past_10m,0.0,0.0
